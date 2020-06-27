@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Chapter9" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Chapter1-4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Chapter5" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Chapter6" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Chapter7" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Chapter8" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Chapter10" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/easygui" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/tkinter" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/pygame" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Base" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/venv" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.7" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
